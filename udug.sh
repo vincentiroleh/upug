@@ -5,7 +5,6 @@
 # Linux (deb) Update and Upgrade script.
 #
 ############################
-chmod u=rwx udug.sh
 hostname=$(hostname -s)
 
 # Print start status message.
