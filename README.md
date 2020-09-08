@@ -1,6 +1,6 @@
 # Linux (deb) Update and Upgrade (udug) script
 
-An automated script that updates and upgrade your linux kernel and remove unneeded packages.
+An bash script that updates and upgrade your linux kernel and packages.
 
 # INSTALLATION
 
