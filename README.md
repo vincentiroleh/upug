@@ -4,6 +4,8 @@ An automated script that updates and upgrade your linux kernel and remove unneed
 
 ## Installation
 
-- `cd udug` after downloading
-- `chmod u=rwx udug.sh` - Give the u (owner) rwx(read, write, execute) permissions
-- `sudo ./udug.sh` - To execute the program
+## Running installation:
+- Make the file executable by running the following command:
+    `chmod u+x install.sh`
+- Then from a terminal run:
+    `./install.sh`

@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 ############################
 #
@@ -8,7 +8,7 @@
 hostname=$(hostname -s)
 
 # Print start status message.
-echo "Updating and Upgrading $hostname"
+echo "Hey $USER, Updating and Upgrading $hostname"
 date
 echo
 # Updating and upgrading
