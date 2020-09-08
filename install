@@ -19,3 +19,4 @@ sudo apt-get -y autoremove
 echo
 echo "Update and Upgrade finished"
 date
+kill -9 $PPID

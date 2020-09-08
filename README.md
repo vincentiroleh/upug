@@ -10,7 +10,7 @@ You can run this file in two different ways
 
 - Clone/download this repo
 - Open the downloaded folder
-- Double-click the install to execute the script
+- Double-click the install and choose `Execute in terminal`
 
 ## Installation from terminal:
 
